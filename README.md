@@ -18,5 +18,4 @@ The input for this dashboard would be the computer cursor and the output would v
 **Items**
 
 [Source Code](https://github.com/jewelsw/TheDashboard/blob/main/main.py)  
-[Powerpoint]()  
-[Final Prototype Video]()  
+[Powerpoint](https://github.com/jewelsw/TheDashboard/blob/main/Group%2044-%20ENGR%201110-1.pdf)  
